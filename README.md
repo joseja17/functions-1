@@ -1,6 +1,6 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
-JS-Assessment Functions
+JS-Assessment Functions-1
 =========
 
 ## Objective
